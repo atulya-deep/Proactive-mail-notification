@@ -1,4 +1,4 @@
-# Proactive Mail-Notification
+# Proactive Mail Notification
 Proactive Mail Notification is a system that is designed to periodically check the user's LinkedIn profile for unread messages and notifications. </br>
 The system will store the retrieved data in a CSV file and also send an email notifications to the user's Gmail account. </br>
 These notifications will include information about the number of unread messages and other notifications, along with a comparison with the previous occurrence.</br></br>
